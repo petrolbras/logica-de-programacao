@@ -13,6 +13,6 @@ function algoritmosort(array){
     }
 } 
 
-const array = [30,24,5,120,52]
+const array = [20,11,7,12,21,22,66]
 algoritmosort(array)
-console.log(array)
+console.log(JSON.stringify(array))
